@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2,h3,ul li,ol{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:yellow;
+	}
+	
+	h4{
+		font-family:Arial, Helvetica, sans-serif;
+		color:red;
+		}
+div.d1{
+	background-color:rgb(0,153,102);
+	}
+	
+

@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1,h3{
+	color:blue;
+	height:1;
+	text-align:left;
+	}
+	
+ul li{
+	font-style:oblique;
+	text-transform:capitalize;
+	color:red;	
+
+	}
+
